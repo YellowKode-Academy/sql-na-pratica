@@ -1,4 +1,10 @@
-# SQL na Prática com PostgreSQL — Repositório de Referência
+﻿# SQL na Prática com PostgreSQL — Repositório de Referência
+
+[![Capa do Livro](cover.jpg)](https://www.amazon.com.br/dp/B0H6688KL4)
+
+> **[Disponivel na Amazon.com.br](https://www.amazon.com.br/dp/B0H6688KL4)** — R$24,97
+
+---
 
 Scripts SQL testados do livro [SQL na Prática com PostgreSQL](https://www.amazon.com.br/dp/B0XXXXX) (YellowKode Academy).
 
